@@ -2,7 +2,13 @@
 
 
 ## About Darkom
-Darkom Single Store Ecommerce Project
+Darkom Single Store Ecommerce Project <br>
+
+Darkom application fulfills some general requirements as well as commercial advertisements.
+
+“Your House” is a Kuwaiti real estate directory through which various properties (rent | sale / exchange / etc..) are presented in an easy and flexible way in the search for what the real estate applicant needs.
+
+The possibility of obtaining services such as (moving luggage / contracting and crafts / following up on transactions / other services,
 Darkom Dashboard and  Api
 
 
