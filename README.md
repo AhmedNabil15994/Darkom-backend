@@ -1,11 +1,9 @@
 
 
 
-## About FindQ8
-
-FindQ8 Dashboard and  Api
-
-
+## About Darkom
+Darkom Single Store Ecommerce Project
+Darkom Dashboard and  Api
 
 
 ##  Laravel Version
@@ -46,15 +44,6 @@ php artisan module:seed Category
 php artisan module:seed QSale
 
 ```
-
-
-## Developer
-
-Ahmed Safwat
-
-
-
-
 
 ## License
 
