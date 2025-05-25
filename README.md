@@ -1,6 +1,3 @@
-
-
-
 ## About Darkom
 Darkom Single Store Ecommerce Project <br>
 
